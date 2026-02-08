@@ -28,8 +28,8 @@
 
 1.  **克隆项目**
     ```bash
-    git clone <your-repo-url>
-    cd TaskReward
+    git clone https://github.com/nov1ce-lee/lovers-task.git
+    cd lovers-task
     ```
 
 2.  **安装依赖**
@@ -64,4 +64,4 @@ docker-compose up -d --build
 拒绝繁琐的注册登录流程，专注于情侣间的甜蜜互动。界面风格温馨，操作流畅。
 
 ---
-Made with ❤️ for Couples.
+Made with ❤️ for Lovers.
